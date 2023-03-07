@@ -13,3 +13,22 @@ print('A divisão é', divisao)
 print('A divisão é', divisao_inteiro)
 print('O modulo é', modulo)
 print('A potência é', potencia)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
